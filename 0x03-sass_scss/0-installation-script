@@ -1,0 +1,6 @@
+#Steps taken to install Sass
+
+Step 1. Visited https://sass-lang.com/
+Step 2. Clicked Install
+Step 3. Run npm install -g sass
+Step 4. Run sass --version to check if it's already installed.
